@@ -44,4 +44,4 @@ jobs:
         run: git fetch --prune --unshallow
 
       - name: Check categories
-        uses: bitnami/chart-categories-action@master
+        uses: suomitek/chart-categories-action@master
